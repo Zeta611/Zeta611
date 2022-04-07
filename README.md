@@ -13,18 +13,16 @@ Currently, I am doing my internship at [Programming Research Laboratory (ROPAS)]
 - Anything in the field of computer science & programming that draws my interest!
 
 ## 🛠 Skills
-<div align="center">
-  Professional: <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+Professional:
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
-  <br>
-  Proficient:
+
+Proficient:
   <img src="https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=OCaml&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scheme-9F1D20?style=flat-square&logo=Racket&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-  <br>
-</div>
 
 ## 📊 Some stats
 <div align="center">
