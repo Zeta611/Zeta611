@@ -3,7 +3,7 @@
 
 I am an undergraduate student in [the Deptartment of Electrical and Computer Engineering](https://ee.snu.ac.kr/en) at Seoul National University.
 
-Currently, I am doing my internship at [Programming Research Laboratory (ROPAS)](http://ropas.snu.ac.kr/) in [the Department of Computer Science and Engineering](https://cse.snu.ac.kr/en).
+Currently, I am doing an internship at [Programming Research Laboratory (ROPAS)](http://ropas.snu.ac.kr/) in [the Department of Computer Science and Engineering](https://cse.snu.ac.kr/en).
 
 ## 📚 Interests
 - 🎓 Static analysis & program synthesis
