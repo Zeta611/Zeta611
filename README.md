@@ -25,6 +25,7 @@ Proficient:
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/GNU Emacs-7F5AB6?style=flat-square&logo=GNU Emacs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReScript-E6484F?style=flat-square&logo=ReScript&logoColor=white"/>
 
 ## 📊 Some stats
 <div align="center">
