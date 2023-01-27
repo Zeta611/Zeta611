@@ -39,3 +39,4 @@ stats](https://github-readme-stats.vercel.app/api?username=Zeta611&show_icons=tr
 ## 🔗 Links
 - https://zetablog.io (personal blog in Korean)
 - http://ropas.snu.ac.kr/~jhlee/
+- [résumé](https://github.com/Zeta611/resume/raw/main/resume.pdf)
