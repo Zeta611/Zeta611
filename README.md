@@ -5,11 +5,12 @@
 <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZeta611%2F&count_bg=%23FFB96C&title_bg=%232D2A26&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=true"/>
 
 I am an undergraduate student in [the Deptartment of Electrical and Computer Engineering](https://ee.snu.ac.kr/en) at Seoul National University.
+I have been accepted into the Master's degree program in [Computer Science and Engineering](https://cse.snu.ac.kr/en) at the same institute.
 
 Currently, I am doing an internship at [Programming Research Laboratory (ROPAS)](http://ropas.snu.ac.kr/) in [the Department of Computer Science and Engineering](https://cse.snu.ac.kr/en).
 
 ## 📚 Interests
-- 🎓 Static analysis & program synthesis
+- 🎓 Static program analysis
 - 📜 Professional typesetting with LaTeX
 - 🤖 Functional programming
 - 📱 iOS & macOS development
@@ -42,4 +43,4 @@ Proficient:
 ## 🔗 Links
 - https://zetablog.io (personal blog in Korean)
 - http://ropas.snu.ac.kr/~jhlee/
-- [résumé](https://github.com/Zeta611/resume/raw/main/resume.pdf)
+- [Curriculum Vitae](https://github.com/Zeta611/resume/raw/main/resume.pdf)
