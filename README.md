@@ -1,4 +1,7 @@
 # 🏠 Welcome to my ~(/hoʊm/)
+
+<img align="center" src="./compiler-dragon.jpg"/>
+
 <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZeta611%2F&count_bg=%23FFB96C&title_bg=%232D2A26&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=true"/>
 
 I am an undergraduate student in [the Deptartment of Electrical and Computer Engineering](https://ee.snu.ac.kr/en) at Seoul National University.
