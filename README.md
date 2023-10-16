@@ -43,4 +43,4 @@ Proficient:
 ## 🔗 Links
 - https://zetablog.io (personal blog in Korean)
 - http://ropas.snu.ac.kr/~jhlee/
-- [Curriculum Vitae](https://github.com/Zeta611/resume/raw/main/resume.pdf)
+- [Curriculum Vitae](https://github.com/Zeta611/curriculum-vitae/raw/main/build/default/default.pdf)
