@@ -5,7 +5,7 @@
 <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZeta611%2F&count_bg=%23FFB96C&title_bg=%232D2A26&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=true"/>
 
 I am pursuing my Master's degree in [Computer Science at Seoul National University](https://cse.snu.ac.kr/en) under the supervision of [Professor Kwangkeun Yi](http://kwangkeunyi.snu.ac.kr/).
-Before this, I completed my undergraduate studies in Electrical and Computer Engineering at the same university.
+Before this, I completed my undergraduate studies in [Electrical and Computer Engineering at the same university](https://ece.snu.ac.kr/en).
 
 ## 📚 Interests
 - 🎓 Programming language semantics and static analysis
