@@ -4,16 +4,14 @@
 
 <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZeta611%2F&count_bg=%23FFB96C&title_bg=%232D2A26&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=true"/>
 
-I am an undergraduate student in [the Deptartment of Electrical and Computer Engineering](https://ee.snu.ac.kr/en) at Seoul National University.
-I have been accepted into the Master's degree program in [Computer Science and Engineering](https://cse.snu.ac.kr/en) at the same institute.
-
-Currently, I am doing an internship at [Programming Research Laboratory (ROPAS)](http://ropas.snu.ac.kr/) in [the Department of Computer Science and Engineering](https://cse.snu.ac.kr/en).
+I am pursuing my Master's degree in [Computer Science at Seoul National University](https://cse.snu.ac.kr/en) under the supervision of [Professor Kwangkeun Yi](http://kwangkeunyi.snu.ac.kr/).
+Before this, I completed my undergraduate studies in Electrical and Computer Engineering at the same university.
 
 ## 📚 Interests
-- 🎓 Static program analysis
-- 📜 Professional typesetting with LaTeX
+- 🎓 Programming language semantics and static analysis
 - 🤖 Functional programming
 - 📱 iOS & macOS development
+- 📜 Professional typesetting with LaTeX
 - Anything in the field of computer science & programming that draws my interest!
 
 ## 🛠 Skills
