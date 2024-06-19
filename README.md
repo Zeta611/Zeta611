@@ -34,7 +34,7 @@ Proficient:
 ## 📊 Some stats
 <div align="center">
 
-  [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeta611&layout=compact&theme=tokyonight)](https://github.com/Zeta611)
+  [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeta611&layout=compact&theme=swift&hide=tex)](https://github.com/Zeta611)
 
 </div>
 
