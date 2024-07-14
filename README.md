@@ -1,6 +1,6 @@
 # 🏠 Welcome to my ~(/hoʊm/)
 
-<img align="center" src="./compiler-dragon.jpg"/>
+<div align="center"><img align="center" width="80%" src="./compiler-dragon.jpg"/></div>
 
 <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZeta611%2F&count_bg=%23FFB96C&title_bg=%232D2A26&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=true"/>
 
@@ -14,20 +14,24 @@ Before this, I completed my undergraduate studies in [Electrical and Computer En
 - 📜 Professional typesetting with LaTeX
 - Anything in the field of computer science & programming that draws my interest!
 
-## 📊 Some stats
+<code><img height="20" alt="ocaml" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png"></code>
+<code><img height="20" alt="swift" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+<code><img height="20" alt="latex" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
+<code><img height="20" alt="vim" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
+
 <div align="center">
 
   [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeta611&layout=compact&theme=transparent&hide=tex)](https://github.com/Zeta611)
 
 </div>
 
-## 🔗 Links
+## 🪄 Pointers
 - https://zetablog.io (personal blog in Korean)
 - http://ropas.snu.ac.kr/~jhlee/
 - [Curriculum Vitae](https://nbviewer.org/github/Zeta611/curriculum-vitae/blob/main/build/default/default.pdf)
 
-
-## 📝 Programming languages
+## 💫 Selected Repositories
+### 🧙🏻‍♂️ Programming languages
 <div align="center">
 
   [![React-tRace](https://github-readme-stats.vercel.app/api/pin/?username=React-Analysis&repo=react-trace)](https://github.com/React-Analysis/react-trace)
@@ -41,7 +45,7 @@ Before this, I completed my undergraduate studies in [Electrical and Computer En
 
 </div>
 
-## 📜 TeX and friends
+### 📜 TeX and friends
 <div align="center">
 
   [![simplebnf](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=simplebnf)](https://github.com/Zeta611/simplebnf)
@@ -53,14 +57,14 @@ Before this, I completed my undergraduate studies in [Electrical and Computer En
 
 </div>
 
-## 🌸 Fun
+### 🌸 Fun
 <div align="center">
 
+  [![Video-Converter](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=Video-Converter)](https://github.com/Zeta611/Video-Converter)
   [![golpy](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=golpy)](https://github.com/Zeta611/golpy)
   [![SwiftUI-Fractals](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=SwiftUI-Fractals)](https://github.com/Zeta611/SwiftUI-Fractals)
   [![CycloidGen](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=CycloidGen)](https://github.com/Zeta611/CycloidGen)
   [![cycloidal-surfaces](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=cycloidal-surfaces)](https://github.com/Zeta611/cycloidal-surfaces)
   [![hello-raytracer](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=hello-raytracer)](https://github.com/Zeta611/hello-raytracer)
-  [![Video-Converter](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=Video-Converter)](https://github.com/Zeta611/Video-Converter)
 
 </div>
