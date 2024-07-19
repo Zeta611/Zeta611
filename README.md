@@ -30,7 +30,7 @@ Before this, I completed my undergraduate studies in [Electrical and Computer En
 - http://ropas.snu.ac.kr/~jhlee/
 - [Curriculum Vitae](https://nbviewer.org/github/Zeta611/curriculum-vitae/blob/main/build/default/default.pdf)
 
-## 💫 Selected Repositories
+## 💫 Selected repositories
 ### 🧙🏻‍♂️ Programming languages
 <div align="center">
 
