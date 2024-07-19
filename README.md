@@ -26,7 +26,7 @@ Before this, I completed my undergraduate studies in [Electrical and Computer En
 </div>
 
 ## 🪄 Pointers
-- https://zetablog.io (personal blog in Korean)
+- https://jaylee.xyz (personal blog in Korean)
 - http://ropas.snu.ac.kr/~jhlee/
 - [Curriculum Vitae](https://nbviewer.org/github/Zeta611/curriculum-vitae/blob/main/build/default/default.pdf)
 
