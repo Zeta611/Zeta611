@@ -8,11 +8,11 @@ I am pursuing my Master's degree in [Computer Science and Engineering at Seoul N
 Before this, I completed my undergraduate studies in [Electrical and Computer Engineering at the same university](https://ece.snu.ac.kr/en).
 
 ## 📚 Interests
-- 🎓 Programming language semantics and static analysis
-- 🤖 Functional programming
-- 📱 iOS & macOS development
-- 📜 Professional typesetting with LaTeX
-- Anything in the field of computer science & programming that draws my interest!
+- 🎓 Programming language theory and static analysis
+- ☯️ Functional programming
+- 📱 Web/iOS/macOS development
+- 📜 Professional typesetting with LaTeX/Typst
+- 💡 Anything in the field of computer science & programming that draws my interest!
 
 <code><img height="20" alt="ocaml" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png"></code>
 <code><img height="20" alt="rescript" src="https://avatars.githubusercontent.com/u/29257325?s=40"></code>
