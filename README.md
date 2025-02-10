@@ -22,7 +22,7 @@ Before this, I completed my undergraduate studies in [Electrical and Computer En
 
 <div align="center">
 
-  [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeta611&layout=compact&theme=transparent&hide=tex)](https://github.com/Zeta611)
+  [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeta611&size_weight=0.5&count_weight=0.5&layout=compact&hide=tex&theme=transparent)](https://github.com/Zeta611)
 
 </div>
 
