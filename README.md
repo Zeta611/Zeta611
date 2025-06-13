@@ -37,14 +37,12 @@ Before this, I completed my undergraduate studies in [Electrical and Computer En
 
 <div align="center">
 
-[![React-tRace](https://github-readme-stats.vercel.app/api/pin/?username=React-Analysis&repo=react-trace)](https://github.com/React-Analysis/react-trace)
+[![React-tRace](https://github-readme-stats.vercel.app/api/pin/?username=React-Analysis&repo=react-trace)](https://github.com/Zeta611/react-trace)
+[![ReDemon UI](https://github-readme-stats.vercel.app/api/pin/?username=React-Analysis&repo=redemon-ui)](https://github.com/Zeta611/redemon-ui)
 [![STAPPL](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=stappl)](https://github.com/Zeta611/stappl)
 [![easyword](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=easyword)](https://github.com/Zeta611/easyword)
 [![polycalc](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=polycalc)](https://github.com/Zeta611/polycalc)
-[![L](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=L)](https://github.com/Zeta611/L)
-[![lamb](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=lamb)](https://github.com/Zeta611/lamb)
 [![cps_callcc_yinyang](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=cps_callcc_yinyang)](https://github.com/Zeta611/cps_callcc_yinyang)
-[![effect_based_interpreter](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=effect_based_interpreter)](https://github.com/Zeta611/effect_based_interpreter)
 
 </div>
 
@@ -55,9 +53,7 @@ Before this, I completed my undergraduate studies in [Electrical and Computer En
 [![simplebnf](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=simplebnf)](https://github.com/Zeta611/simplebnf)
 [![simplebnf.typ](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=simplebnf.typ)](https://github.com/Zeta611/simplebnf.typ)
 [![ebproofx](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=ebproofx)](https://github.com/Zeta611/ebproofx)
-[![simplesnt](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=simplesnt)](https://github.com/Zeta611/simplesnt)
 [![snu-ece-bsc-thesis](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=snu-ece-bsc-thesis)](https://github.com/Zeta611/snu-ece-bsc-thesis)
-[![snu-cse-bsc-thesis](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=snu-cse-bsc-thesis)](https://github.com/Zeta611/snu-cse-bsc-thesis)
 
 </div>
 
