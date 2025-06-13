@@ -37,8 +37,8 @@ Before this, I completed my undergraduate studies in [Electrical and Computer En
 
 <div align="center">
 
-[![React-tRace](https://github-readme-stats.vercel.app/api/pin/?username=React-Analysis&repo=react-trace)](https://github.com/Zeta611/react-trace)
-[![ReDemon UI](https://github-readme-stats.vercel.app/api/pin/?username=React-Analysis&repo=redemon-ui)](https://github.com/Zeta611/redemon-ui)
+[![React-tRace](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=react-trace)](https://github.com/Zeta611/react-trace)
+[![ReDemon UI](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=redemon-ui)](https://github.com/Zeta611/redemon-ui)
 [![STAPPL](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=stappl)](https://github.com/Zeta611/stappl)
 [![easyword](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=easyword)](https://github.com/Zeta611/easyword)
 [![polycalc](https://github-readme-stats.vercel.app/api/pin/?username=Zeta611&repo=polycalc)](https://github.com/Zeta611/polycalc)
