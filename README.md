@@ -31,7 +31,7 @@ Fun fact: I'm one of the most active GitHub committers in Korea [![committers.to
 
 - <https://jaylee.xyz> (personal blog in Korean)
 - <http://ropas.snu.ac.kr/~jhlee/>
-- [Curriculum Vitae](https://nbviewer.org/github/Zeta611/curriculum-vitae/blob/main/build/default/default.pdf)
+- [Curriculum Vitae](https://nbviewer.org/github/Zeta611/curriculum-vitae/blob/main/cv.pdf)
 
 ## 💫 Selected repositories
 
