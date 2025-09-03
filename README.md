@@ -29,7 +29,7 @@ Fun fact: I'm one of the most active GitHub committers in Korea [![committers.to
 
 ## 🪄 Pointers
 
-- <https://jaylee.xyz> (personal blog in Korean)
+- <https://jaylee.xyz>
 - <http://ropas.snu.ac.kr/~jhlee/>
 - [Curriculum Vitae](https://nbviewer.org/github/Zeta611/curriculum-vitae/blob/main/cv.pdf)
 
