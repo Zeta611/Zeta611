@@ -2,7 +2,9 @@
 
 <div align="center"><img align="center" width="80%" src="./compiler-dragon.png"/></div>
 
-I am pursuing my Master's degree in [Computer Science and Engineering at Seoul National University](https://cse.snu.ac.kr/en) under the supervision of [Professor Kwangkeun Yi](http://kwangkeunyi.snu.ac.kr/).
+Hello world, I'm Jay!
+I will be joining [UC Berkeley](https://berkeley.edu) as a PhD student in [Computer Science](https://eecs.berkeley.edu/cs/) this fall! 💛💙
+I completed my Master's degree in [Computer Science and Engineering at Seoul National University](https://cse.snu.ac.kr/en) under the supervision of [Professor Kwangkeun Yi](http://kwangkeunyi.snu.ac.kr/).
 Before this, I completed my undergraduate studies in [Electrical and Computer Engineering at the same university](https://ece.snu.ac.kr/en).
 
 Fun fact: I'm one of the most active GitHub committers in Korea [![committers.top badge](https://user-badge.committers.top/south_korea/Zeta611.svg)](https://user-badge.committers.top/south_korea/Zeta611)!
