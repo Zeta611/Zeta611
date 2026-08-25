@@ -3,7 +3,7 @@
 <div align="center"><img align="center" width="80%" src="./compiler-dragon.png"/></div>
 
 Hello world, I'm Jay!
-I will be joining [UC Berkeley](https://berkeley.edu) as a PhD student in [Computer Science](https://eecs.berkeley.edu/cs/) this fall! 💛💙
+I am a [Computer Science](https://eecs.berkeley.edu/cs/) PhD student at [UC Berkeley](https://berkeley.edu) advised by [Professor Sarah E. Chasins](https://schasins.com/). 
 I completed my Master's degree in [Computer Science and Engineering at Seoul National University](https://cse.snu.ac.kr/en) under the supervision of [Professor Kwangkeun Yi](http://kwangkeunyi.snu.ac.kr/).
 Before this, I completed my undergraduate studies in [Electrical and Computer Engineering at the same university](https://ece.snu.ac.kr/en).
 
