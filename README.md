@@ -1,25 +1,27 @@
-# 🏠 Welcome to my ~(/hoʊm/)
-
-<div align="center"><img align="center" width="80%" src="./compiler-dragon.png"/></div>
+# 🏠 Welcome to my ~(/hoʊm/)!
 
 Hello world, I'm Jay!
-I am a [Computer Science](https://eecs.berkeley.edu/cs/) PhD student at [UC Berkeley](https://berkeley.edu) advised by [Professor Sarah E. Chasins](https://schasins.com/). 
-I completed my Master's degree in [Computer Science and Engineering at Seoul National University](https://cse.snu.ac.kr/en) under the supervision of [Professor Kwangkeun Yi](http://kwangkeunyi.snu.ac.kr/).
-Before this, I completed my undergraduate studies in [Electrical and Computer Engineering at the same university](https://ece.snu.ac.kr/en).
+I am a Computer Science PhD student at UC Berkeley advised by [Prof. Sarah E. Chasins](https://schasins.com/). 
+I completed my Master's degree in Computer Science and Engineering at Seoul National University under the supervision of [Prof. Kwangkeun Yi](http://kwangkeunyi.snu.ac.kr/).
+Before this, I completed my undergraduate studies in Electrical and Computer Engineering at Seoul National University.
 
-## 📚 Interests
+## 📚 I care about...
 
-- 🎓 Programming language theory and static analysis
-- ☯️ Functional programming
-- 📱 Web/iOS/macOS development
-- 📜 Professional typesetting with LaTeX/Typst
-- 💡 Anything in the field of computer science & programming that draws my interest!
+- 🎓 programming language theory,
+- ☯️ functional programming,
+- 📱 programming tools,
+- 📜 professional typesetting (LaTeX, mostly), and
+- 💡 helping people in other domains!
 
-<code><img height="20" alt="ocaml" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png"></code>
-<code><img height="20" alt="rescript" src="https://avatars.githubusercontent.com/u/29257325?s=40"></code>
-<code><img height="20" alt="swift" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="20" alt="latex" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
-<code><img height="20" alt="vim" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
+## 🪄 Check out my...
+
+- homepage: <https://jaylee.pl>
+- visualizer for React Hooks: <https://react-trace.jaylee.xyz>
+  * **Jay Lee**, Joongwon Ahn, and Kwangkeun Yi. 2025. React-tRace: A Semantics for Understanding React Hooks: An Operational Semantics and a Visualizer for Clarifying React Hooks. *Proc. ACM Program. Lang.* 9, OOPSLA2, Article 289 (October 2025), 28 pages. https://doi.org/10.1145/3763067
+  * **Jay Lee** and Kwangkeun Yi. 2026. A Semantically Grounded Visualization of React Hooks. In *Proceedings of the 16th PLATEAU Workshop on Programming Languages and Human-Computer Interaction (PLATEAU ’26)*. 7 pages. https://doi.org/10.1184/R1/31816744
+- programming by demonstration system for React: <https://redemon-ui.jaylee.xyz>
+  * **Jay Lee**, Gyuhyeok Oh, Joongwon Ahn, and Xiaokang Qiu. 2025. ReDemon UI: Reactive Synthesis by Demonstration for Web UI. In *The 38th Annual ACM Symposium on User Interface Software and Technology (UIST Adjunct ’25), September 28–October 01, 2025, Busan, Republic of Korea*. ACM, New York, NY, USA, 3 pages. https://doi.org/10.1145/3746058.3758454
+- [Curriculum Vitae](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Zeta611/curriculum-vitae/main/cv.pdf)
 
 <div align="center">
 
@@ -27,13 +29,7 @@ Before this, I completed my undergraduate studies in [Electrical and Computer En
 
 </div>
 
-## 🪄 Pointers
-
-- <https://jaylee.xyz>
-- <http://ropas.snu.ac.kr/~jhlee/>
-- [Curriculum Vitae](https://nbviewer.org/github/Zeta611/curriculum-vitae/blob/main/cv.pdf)
-
-## 💫 Selected repositories
+## 🍭 Some goodies...
 
 ### 🧙🏻‍♂️ Programming languages
 
